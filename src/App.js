@@ -6,12 +6,12 @@ import "firebase/firestore";
 import { useEffect, useState } from "react";
 
 firebase.initializeApp({
-  apiKey: "AIzaSyA3m-5KdSwIV5WhkZcgOEC5REnoVB14I1Y",
-  authDomain: "chatkaro-23780.firebaseapp.com",
-  projectId: "chatkaro-23780",
-  storageBucket: "chatkaro-23780.appspot.com",
-  messagingSenderId: "937570976658",
-  appId: "1:937570976658:web:732e811de0a2aab9fb374b",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 });
 
 const auth = firebase.auth();
